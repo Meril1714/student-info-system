@@ -1,0 +1,7 @@
+{
+  "app_name": "Student Information System",
+  "version": "1.0.0",
+  "data_file_path": "data/students.json",
+  "log_file_path": "logs/app.log",
+  "log_level": "INFO"
+}

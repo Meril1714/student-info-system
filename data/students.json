@@ -1,0 +1,23 @@
+[
+    {
+        "student_id": "2400112",
+        "name": "Merilhet Karen Dizon",
+        "age": 29,
+        "grade": "90",
+        "email": "merilhet@gmail.com"
+    },
+    {
+        "student_id": "2515",
+        "name": "jhj mk",
+        "age": 22,
+        "grade": "98",
+        "email": "mmkjg@gmail.com"
+    },
+    {
+        "student_id": "556",
+        "name": "jjhg",
+        "age": 54,
+        "grade": "55",
+        "email": "mknb"
+    }
+]
