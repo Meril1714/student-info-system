@@ -19,5 +19,12 @@
         "age": 54,
         "grade": "55",
         "email": "mknb"
+    },
+    {
+        "student_id": "141414",
+        "name": "meril sterling",
+        "age": 29,
+        "grade": "95",
+        "email": "meril@gmail.com"
     }
 ]
